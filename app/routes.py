@@ -34,3 +34,20 @@ async def find_intent_signals(request: Request) -> Dict:
         
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@router.post("/get_email")
+async def get_email(request: Request) -> Dict:
+    """Get the most probable email address for an employee at a company"""
+    try:
+        data = await request.json()
+        employee_name = data.get('employee_name')
+        company_name = data.get('company_name')
+        
+        if not employee_name or not company_name:
+            raise HTTPException(status_code=400, detail="employee_name and company_name are required")
+            
+        email = await intent_signal_finder.get_email(employee_name, company_name)
+        return {"email": email}
+        
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
