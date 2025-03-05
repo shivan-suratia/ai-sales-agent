@@ -1,0 +1,680 @@
+{
+    "companies": [
+      {
+        "about": {
+          "businessType": "privately-held",
+          "industries": [
+            "data",
+            "design",
+            "distribution",
+            "finance",
+            "financial-services",
+            "information-technology",
+            "internet",
+            "services",
+            "startups",
+            "venture-capital",
+            "investment-banking",
+            "investment-management",
+            "investment-advice",
+            "technology-information-and-internet",
+            "business-consulting-and-services",
+            "technology-information-and-media"
+          ],
+          "industry": "venture-capital-and-private-equity-principals",
+          "languages": [
+            "eng_Latn"
+          ],
+          "name": "500 Global",
+          "nameAlts": [
+            "500",
+            "500 startups",
+            "500startups"
+          ],
+          "nameLegal": "500 Startups Management Company, L.L.C.",
+          "totalEmployees": "200-500",
+          "yearFounded": 2010,
+          "yearFoundedPlace": "San Jose, CA"
+        },
+        "analytics": {
+          "monthlyVisitors": "10m-50m"
+        },
+        "assets": {
+          "cover": {
+            "height": 628,
+            "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/500.co.jpg",
+            "width": 1200
+          },
+          "logoSquare": {
+            "height": 200,
+            "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/500.co.jpg",
+            "width": 200
+          }
+        },
+        "careers": {
+          "careersUrl": "https://500.co/careers"
+        },
+        "codes": {
+          "naics": "523910",
+          "sic": "6282"
+        },
+        "contacts": {
+          "emails": [
+            {
+              "category": "general",
+              "value": "privacy@500.global"
+            }
+          ]
+        },
+        "contents": {
+          "eventsUrl": "http://events.500.co/500jstarxdd2024/website",
+          "partnershipUrl": "https://500.co/partnerships",
+          "updatesUrl": "https://500.co/newsletter-sign-up"
+        },
+        "descriptions": {
+          "primary": "500 Startups is a global venture capital seed fund with a network of startup programs headquartered in Silicon Valley. 500 Startups is the #1 most active seed fund in the world. We believe successful internet startups are born from usable design, customer-focused metrics, and online distribution. Starting a company is not for the faint of heart. Founders must be audacious, innovative, and disruptive. At 500 Startups, we challenge ourselves to also embody those qualities in how we help startups through both our seed fund and our startup accelerator program. In no particular order, that means:- Building best-in-class resources for usable design, customer-focused metrics, and online distribution- Creating a diverse network of experienced and operationally-focused mentors. - Partnering with key platform companies and services that will help our startups. - Pushing the envelope on how we do investments. We typically invest between $25K-$250K USD in our first check, however we also make selective follow-on investments at Series A/B of up to $1M USD. We also aim to be innovative in our investment model. Check out Moneyball for Startups, the inspiration for our investment thesis. We're based in Mountain View, California but our companies, mentors, and advisers come from 60+ countries around the world. Follow us on Twitter and Facebook, and check out our blog for the latest updates. No, we're not your ordinary VC. Wanna keep tabs on 500? Stay up to date with our news & events >>",
+          "tagline": "500 worldwide",
+          "website": "500 Global (formerly 500 Startups) is a venture capital firm with $2.3B1 in AUM investing in founders with a global outlook building fast-growing startups."
+        },
+        "domain": {
+          "domain": "500.co",
+          "domainName": "500",
+          "registrantCountry": "US",
+          "registrar": "1API GmbH",
+          "registrarUrl": "www.1api.net",
+          "state": "operating",
+          "status": 200,
+          "tld": "co"
+        },
+        "finances": {
+          "revenue": "50m-100m"
+        },
+        "locations": {
+          "headquarters": {
+            "address": {
+              "raw": "814 mission street"
+            },
+            "city": {
+              "address": "814 mission street",
+              "code": "mountain-view|california|us",
+              "name": "Mountain View"
+            },
+            "continent": {
+              "code": "na",
+              "name": "North America"
+            },
+            "country": {
+              "code": "us",
+              "name": "United States"
+            },
+            "county": {
+              "code": "santa-clara-county|us",
+              "name": "Santa Clara County"
+            },
+            "state": {
+              "code": "california|us",
+              "name": "California"
+            }
+          }
+        },
+        "meta": {
+          "listIds": [],
+          "mysqlId": 49944,
+          "score": 70,
+          "similarity": 2.513,
+          "syncedAt": "2025-01-03T21:49:13.846Z"
+        },
+        "secondaries": {
+          "emailPatterns": [
+            {
+              "pattern": "[F]",
+              "usagePercentage": 85.8974
+            },
+            {
+              "pattern": "[F].[L]",
+              "usagePercentage": 11.1111
+            },
+            {
+              "pattern": "[F][L]",
+              "usagePercentage": 1.2821
+            },
+            {
+              "pattern": "[L]",
+              "usagePercentage": 0.8547
+            },
+            {
+              "pattern": "[F][L1]",
+              "usagePercentage": 0.4274
+            },
+            {
+              "pattern": "[F1][L1]",
+              "usagePercentage": 0.4274
+            }
+          ]
+        },
+        "socials": {
+          "facebook": {
+            "id": "500Global",
+            "url": "https://facebook.com/500Global"
+          },
+          "instagram": {
+            "id": "500Global",
+            "url": "https://instagram.com/500Global"
+          },
+          "linkedin": {
+            "idNumeric": "500global",
+            "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1443207",
+            "url": "https://linkedin.com/company/500global"
+          },
+          "twitter": {
+            "id": "500GlobalVC",
+            "url": "https://x.com/500GlobalVC"
+          },
+          "wellfound": {
+            "id": "500startups",
+            "url": "http://angel.co/500startups"
+          },
+          "youtube": {
+            "id": "500startups",
+            "url": "https://youtube.com/user/500startups"
+          }
+        },
+        "technologies": {
+          "active": [
+            "facebook-social-plugins",
+            "google-analytics",
+            "google-tag-manager",
+            "google-workspace",
+            "next-js",
+            "next-js-app-router",
+            "vercel"
+          ],
+          "categories": [
+            "application-development",
+            "business-instant-messaging",
+            "calendar",
+            "ci-cd",
+            "cloud-content-collaboration",
+            "content-analytics",
+            "content-management",
+            "content-marketing",
+            "continuous-delivery",
+            "development",
+            "devops",
+            "digital-analytics",
+            "document-creation",
+            "email",
+            "hosting",
+            "idea-management",
+            "internal-communications",
+            "javascript-web-frameworks",
+            "marketing",
+            "mobile-analytics",
+            "mobile-app-analytics",
+            "mobile-development",
+            "note-taking-management",
+            "office",
+            "office-suites",
+            "presentation",
+            "screen-sharing",
+            "social-media-marketing",
+            "spreadsheets",
+            "survey",
+            "tag-management",
+            "team-collaboration",
+            "video-conferencing",
+            "webops-platforms",
+            "website-builder"
+          ],
+          "details": [
+            {
+              "categories": [
+                "social-media-marketing"
+              ],
+              "detectedAt": "2024-12-29T02:56:15.165Z",
+              "detectionTypes": [
+                "scripts"
+              ],
+              "slug": "facebook-social-plugins"
+            },
+            {
+              "categories": [
+                "application-development",
+                "content-analytics",
+                "content-marketing",
+                "development",
+                "digital-analytics",
+                "marketing",
+                "mobile-analytics",
+                "mobile-app-analytics",
+                "mobile-development"
+              ],
+              "detectedAt": "2024-12-29T02:56:15.165Z",
+              "detectionTypes": [
+                "cookies",
+                "variables"
+              ],
+              "slug": "google-analytics"
+            },
+            {
+              "categories": [
+                "digital-analytics",
+                "marketing",
+                "tag-management"
+              ],
+              "detectedAt": "2024-12-29T02:56:15.165Z",
+              "detectionTypes": [
+                "scripts",
+                "variables"
+              ],
+              "slug": "google-tag-manager"
+            },
+            {
+              "categories": [
+                "business-instant-messaging",
+                "calendar",
+                "cloud-content-collaboration",
+                "content-management",
+                "document-creation",
+                "email",
+                "idea-management",
+                "internal-communications",
+                "note-taking-management",
+                "office",
+                "office-suites",
+                "presentation",
+                "screen-sharing",
+                "spreadsheets",
+                "survey",
+                "team-collaboration",
+                "video-conferencing",
+                "website-builder"
+              ],
+              "detectedAt": "2024-12-29T02:56:15.165Z",
+              "detectionTypes": [
+                "dns"
+              ],
+              "slug": "google-workspace"
+            },
+            {
+              "categories": [
+                "javascript-web-frameworks",
+                "website-builder"
+              ],
+              "detectedAt": "2024-12-29T02:56:14.968Z",
+              "detectionTypes": [
+                "evaluate-version",
+                "headers"
+              ],
+              "slug": "next-js",
+              "version": "14.2.15"
+            },
+            {
+              "categories": [
+                "javascript-web-frameworks",
+                "website-builder"
+              ],
+              "detectedAt": "2024-12-29T02:56:14.968Z",
+              "detectionTypes": [
+                "evaluate-version"
+              ],
+              "slug": "next-js-app-router"
+            },
+            {
+              "categories": [
+                "ci-cd",
+                "content-management",
+                "continuous-delivery",
+                "development",
+                "devops",
+                "hosting",
+                "webops-platforms",
+                "website-builder"
+              ],
+              "detectedAt": "2024-12-29T02:56:15.165Z",
+              "detectionTypes": [
+                "headers"
+              ],
+              "slug": "vercel"
+            }
+          ]
+        }
+      },
+      {
+        "meta": {
+          "listIds": [],
+          "mysqlId": 178907,
+          "score": 54,
+          "similarity": 1.984,
+          "syncedAt": "2024-12-05T09:05:08.351Z"
+        },
+        "about": {
+          "name": "500 Designs",
+          "industry": "design",
+          "nameAlts": [
+            "500D"
+          ],
+          "industries": [
+            "advertising",
+            "brand-positioning",
+            "consumer-internet",
+            "creative-strategy",
+            "design",
+            "digital-storytelling",
+            "information-technology",
+            "internet",
+            "logo-design",
+            "marketing",
+            "marketing-strategy",
+            "user-experience-design",
+            "ux-ui-designs",
+            "web-design",
+            "wireframes",
+            "graphic design",
+            "web design",
+            "branding"
+          ],
+          "yearFounded": 2016,
+          "totalEmployees": "1-10",
+          "aboutUrl": "https://500designs.com/about/",
+          "languages": [
+            "eng_Latn"
+          ],
+          "nameLegal": "500 Designs",
+          "businessType": "privately-held"
+        },
+        "domain": {
+          "tld": "com",
+          "domain": "500designs.com",
+          "domainName": "500designs",
+          "status": 200,
+          "registrar": "GoDaddy.com, LLC",
+          "registrarUrl": "www.godaddy.com"
+        },
+        "socials": {
+          "facebook": {
+            "id": "500designs",
+            "url": "https://www.facebook.com/500designs"
+          },
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/500-designs",
+            "idNumeric": "500-designs",
+            "salesNavigatorUrl": "https://www.linkedin.com/sales/company/10679734"
+          },
+          "wellfound": {
+            "id": "500designs",
+            "url": "http://angel.co/500designs"
+          }
+        },
+        "analytics": {
+          "monthlyVisitors": "500k-1m"
+        },
+        "locations": {
+          "headquarters": {
+            "city": {
+              "code": "san-francisco|california|us",
+              "name": "San Francisco",
+              "address": "400 spectrum center drive"
+            },
+            "state": {
+              "code": "california|us",
+              "name": "California"
+            },
+            "county": {
+              "code": "san-francisco|us",
+              "name": "San Francisco"
+            },
+            "address": {
+              "raw": "400 spectrum center drive"
+            },
+            "country": {
+              "code": "us",
+              "name": "United States"
+            },
+            "continent": {
+              "code": "na",
+              "name": "North America"
+            }
+          }
+        },
+        "secondaries": {
+          "emailPatterns": [
+            {
+              "pattern": "[F]",
+              "usagePercentage": 100
+            }
+          ]
+        },
+        "descriptions": {
+          "primary": "500 Designs is a digital experience studio that specializes in UX/UI design, marketing strategy, and branding to build brands that are worth talking about.",
+          "tagline": "Award-winning web design and branding agency",
+          "website": "As an award-winning digital design agency, 500 Designs excels in branding, website UI/UX & web design. Discover how we create tailored digital experiences."
+        },
+        "assets": {
+          "cover": {
+            "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/500designs.com.jpg",
+            "width": 1024,
+            "height": 717
+          },
+          "logoSquare": {
+            "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/500designs.com.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "colorPrimary": "#DFDBD8"
+        },
+        "careers": {
+          "careersUrl": "https://500designs.com/careers/"
+        },
+        "contacts": {
+          "contactUrl": "https://500designs.com/contact-us/"
+        },
+        "contents": {
+          "sitemapUrl": "https://500designs.com/sitemap_index.xml"
+        },
+        "technologies": {
+          "active": [
+            "cloudflare-cdn",
+            "elementor",
+            "google-tag-manager",
+            "google-workspace",
+            "hubspot",
+            "wordpress",
+            "wp-engine"
+          ],
+          "details": [
+            {
+              "slug": "cloudflare-cdn",
+              "categories": [
+                "content-delivery-network",
+                "enterprise-content-delivery-network",
+                "hosting"
+              ],
+              "detectedAt": "2024-09-29T00:37:37.036Z",
+              "detectionTypes": [
+                "headers"
+              ]
+            },
+            {
+              "slug": "elementor",
+              "categories": [
+                "content-management",
+                "marketing",
+                "pop-up-builder",
+                "website-builder"
+              ],
+              "detectedAt": "2024-09-29T00:37:37.036Z",
+              "detectionTypes": [
+                "scripts",
+                "tags",
+                "variables"
+              ]
+            },
+            {
+              "slug": "google-tag-manager",
+              "categories": [
+                "digital-analytics",
+                "marketing",
+                "tag-management"
+              ],
+              "detectedAt": "2024-09-29T00:37:37.036Z",
+              "detectionTypes": [
+                "tags"
+              ]
+            },
+            {
+              "slug": "google-workspace",
+              "categories": [
+                "business-instant-messaging",
+                "calendar",
+                "cloud-content-collaboration",
+                "content-management",
+                "document-creation",
+                "email",
+                "idea-management",
+                "internal-communications",
+                "note-taking-management",
+                "office",
+                "office-suites",
+                "presentation",
+                "screen-sharing",
+                "spreadsheets",
+                "survey",
+                "team-collaboration",
+                "video-conferencing",
+                "website-builder"
+              ],
+              "detectedAt": "2024-09-29T00:37:37.036Z",
+              "detectionTypes": [
+                "dns"
+              ]
+            },
+            {
+              "slug": "hubspot",
+              "categories": [
+                "ai-sales-assistant",
+                "business-card-scanning",
+                "business-scheduling",
+                "conversation-intelligence",
+                "cpq",
+                "crm",
+                "demand-generation",
+                "email-tracking",
+                "lead-generation",
+                "marketing",
+                "office",
+                "online-appointment-scheduling",
+                "outbound-call-tracking",
+                "quote-management",
+                "quote-to-cash",
+                "sales",
+                "sales-acceleration",
+                "sales-acceleration-platforms",
+                "sales-analytics",
+                "sales-enablement",
+                "sales-engagement",
+                "sales-intelligence",
+                "sales-performance-management",
+                "sales-platforms",
+                "visitor-identification"
+              ],
+              "detectedAt": "2024-09-29T00:37:37.036Z",
+              "detectionTypes": [
+                "variables"
+              ]
+            },
+            {
+              "slug": "wordpress",
+              "categories": [
+                "aws-marketplace",
+                "content-management",
+                "marketplace-apps",
+                "office",
+                "web-content-management"
+              ],
+              "detectedAt": "2024-09-29T00:37:37.036Z",
+              "detectionTypes": [
+                "headers",
+                "scripts"
+              ]
+            },
+            {
+              "slug": "wp-engine",
+              "categories": [
+                "hosting",
+                "managed-hosting-providers",
+                "web-hosting-providers"
+              ],
+              "detectedAt": "2024-09-29T00:37:37.036Z",
+              "detectionTypes": [
+                "headers"
+              ]
+            }
+          ],
+          "categories": [
+            "ai-sales-assistant",
+            "aws-marketplace",
+            "business-card-scanning",
+            "business-instant-messaging",
+            "business-scheduling",
+            "calendar",
+            "cloud-content-collaboration",
+            "content-delivery-network",
+            "content-management",
+            "conversation-intelligence",
+            "cpq",
+            "crm",
+            "demand-generation",
+            "digital-analytics",
+            "document-creation",
+            "email",
+            "email-tracking",
+            "enterprise-content-delivery-network",
+            "hosting",
+            "idea-management",
+            "internal-communications",
+            "lead-generation",
+            "managed-hosting-providers",
+            "marketing",
+            "marketplace-apps",
+            "note-taking-management",
+            "office",
+            "office-suites",
+            "online-appointment-scheduling",
+            "outbound-call-tracking",
+            "pop-up-builder",
+            "presentation",
+            "quote-management",
+            "quote-to-cash",
+            "sales",
+            "sales-acceleration",
+            "sales-acceleration-platforms",
+            "sales-analytics",
+            "sales-enablement",
+            "sales-engagement",
+            "sales-intelligence",
+            "sales-performance-management",
+            "sales-platforms",
+            "screen-sharing",
+            "spreadsheets",
+            "survey",
+            "tag-management",
+            "team-collaboration",
+            "video-conferencing",
+            "visitor-identification",
+            "web-content-management",
+            "web-hosting-providers",
+            "website-builder"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "currentPage": 1,
+      "firstPage": 1,
+      "lastPage": 8504280,
+      "perPage": 2,
+      "total": 17008559
+    }
+  }
+  
