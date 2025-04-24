@@ -84,14 +84,5 @@ Triggers a re-crawl and enrichment for all active queries.
 ## 📈 Future Improvements
 
 - NLP-based query refinement
-- OpenAI integration for smarter summarization
 - Advanced lead scoring model
-- UI to manage and visualize leads
 
-## 📬 Contact
-
-For questions, suggestions, or collaboration inquiries, reach out to [yourname@youremail.com].
-
----
-
-Let me know if you want this tailored more for open-source users, internal documentation, or investor pitch mode.
